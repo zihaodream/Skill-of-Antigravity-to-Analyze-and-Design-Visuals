@@ -1,0 +1,4 @@
+interface:
+  display_name: "视觉与叙事风格设计"
+  short_description: "基于20种视觉与16种叙事流派，完成风格分析、同质化诊断与设计方案"
+  default_prompt: "使用 $ai-style-design，根据我的产品、受众和媒介制定视觉与文案方案。"

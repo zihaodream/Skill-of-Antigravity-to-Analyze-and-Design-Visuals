@@ -1,0 +1,18 @@
+{
+  "name": "@antigravity/ai-style-design",
+  "version": "1.0.0",
+  "description": "Antigravity AI Style Analysis, Anti-Homogenization Audit, and Design Orchestration Suite",
+  "main": "scripts/style_designer.py",
+  "keywords": [
+    "antigravity",
+    "skills",
+    "style-analyzer",
+    "style-designer",
+    "anti-homogenization",
+    "design-systems",
+    "midjourney",
+    "sdxl"
+  ],
+  "author": "Antigravity AI Style Architecture Lab",
+  "license": "MIT"
+}
